@@ -1,3 +1,3 @@
 # blog
 blog creado en blogger llamado"La ruta del rock"
-blogger:
+blogger:https://rutadelrockenespanol.blogspot.com/
